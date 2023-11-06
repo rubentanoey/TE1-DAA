@@ -1,0 +1,91 @@
+,Dataset Type,Dataset Size,Algorithm,Additional Memory,Start Memory,End Memory
+0,Randomized,200,CBIS,0,1656,1656
+1,Randomized,200,Randomized Quicksort,0,1656,1656
+2,Sorted,200,CBIS,0,1656,1656
+3,Sorted,200,Randomized Quicksort,0,1656,1656
+4,Reversed,200,CBIS,0,1656,1656
+5,Reversed,200,Randomized Quicksort,0,1656,1656
+6,Randomized,2000,CBIS,0,16184,16184
+7,Randomized,2000,Randomized Quicksort,0,16056,16056
+8,Sorted,2000,CBIS,0,16184,16184
+9,Sorted,2000,Randomized Quicksort,0,16056,16056
+10,Reversed,2000,CBIS,0,16184,16184
+11,Reversed,2000,Randomized Quicksort,0,16056,16056
+12,Randomized,20000,CBIS,0,173016,173016
+13,Randomized,20000,Randomized Quicksort,0,160056,160056
+14,Sorted,20000,CBIS,0,173016,173016
+15,Sorted,20000,Randomized Quicksort,0,160056,160056
+16,Reversed,20000,CBIS,0,173016,173016
+17,Reversed,20000,Randomized Quicksort,0,160056,160056
+18,Randomized,200,CBIS,0,1656,1656
+19,Randomized,200,Randomized Quicksort,0,1656,1656
+20,Sorted,200,CBIS,0,1656,1656
+21,Sorted,200,Randomized Quicksort,0,1656,1656
+22,Reversed,200,CBIS,0,1656,1656
+23,Reversed,200,Randomized Quicksort,0,1656,1656
+24,Randomized,2000,CBIS,0,16184,16184
+25,Randomized,2000,Randomized Quicksort,0,16056,16056
+26,Sorted,2000,CBIS,0,16184,16184
+27,Sorted,2000,Randomized Quicksort,0,16056,16056
+28,Reversed,2000,CBIS,0,16184,16184
+29,Reversed,2000,Randomized Quicksort,0,16056,16056
+30,Randomized,20000,CBIS,0,173016,173016
+31,Randomized,20000,Randomized Quicksort,0,160056,160056
+32,Sorted,20000,CBIS,0,173016,173016
+33,Sorted,20000,Randomized Quicksort,0,160056,160056
+34,Reversed,20000,CBIS,0,173016,173016
+35,Reversed,20000,Randomized Quicksort,0,160056,160056
+36,Randomized,200,CBIS,0,1656,1656
+37,Randomized,200,Randomized Quicksort,0,1656,1656
+38,Sorted,200,CBIS,0,1656,1656
+39,Sorted,200,Randomized Quicksort,0,1656,1656
+40,Reversed,200,CBIS,0,1656,1656
+41,Reversed,200,Randomized Quicksort,0,1656,1656
+42,Randomized,2000,CBIS,0,16184,16184
+43,Randomized,2000,Randomized Quicksort,0,16056,16056
+44,Sorted,2000,CBIS,0,16184,16184
+45,Sorted,2000,Randomized Quicksort,0,16056,16056
+46,Reversed,2000,CBIS,0,16184,16184
+47,Reversed,2000,Randomized Quicksort,0,16056,16056
+48,Randomized,20000,CBIS,0,173016,173016
+49,Randomized,20000,Randomized Quicksort,0,160056,160056
+50,Sorted,20000,CBIS,0,173016,173016
+51,Sorted,20000,Randomized Quicksort,0,160056,160056
+52,Reversed,20000,CBIS,0,173016,173016
+53,Reversed,20000,Randomized Quicksort,0,160056,160056
+54,Randomized,200,CBIS,0,1656,1656
+55,Randomized,200,Randomized Quicksort,0,1656,1656
+56,Sorted,200,CBIS,0,1656,1656
+57,Sorted,200,Randomized Quicksort,0,1656,1656
+58,Reversed,200,CBIS,0,1656,1656
+59,Reversed,200,Randomized Quicksort,0,1656,1656
+60,Randomized,2000,CBIS,0,16184,16184
+61,Randomized,2000,Randomized Quicksort,0,16056,16056
+62,Sorted,2000,CBIS,0,16184,16184
+63,Sorted,2000,Randomized Quicksort,0,16056,16056
+64,Reversed,2000,CBIS,0,16184,16184
+65,Reversed,2000,Randomized Quicksort,0,16056,16056
+66,Randomized,20000,CBIS,0,173016,173016
+67,Randomized,20000,Randomized Quicksort,0,160056,160056
+68,Sorted,20000,CBIS,0,173016,173016
+69,Sorted,20000,Randomized Quicksort,0,160056,160056
+70,Reversed,20000,CBIS,0,173016,173016
+71,Reversed,20000,Randomized Quicksort,0,160056,160056
+72,Randomized,200,CBIS,0,1656,1656
+73,Randomized,200,Randomized Quicksort,0,1656,1656
+74,Sorted,200,CBIS,0,1656,1656
+75,Sorted,200,Randomized Quicksort,0,1656,1656
+76,Reversed,200,CBIS,0,1656,1656
+77,Reversed,200,Randomized Quicksort,0,1656,1656
+78,Randomized,2000,CBIS,0,16184,16184
+79,Randomized,2000,Randomized Quicksort,0,16056,16056
+80,Sorted,2000,CBIS,0,16184,16184
+81,Sorted,2000,Randomized Quicksort,0,16056,16056
+82,Reversed,2000,CBIS,0,16184,16184
+83,Reversed,2000,Randomized Quicksort,0,16056,16056
+84,Randomized,20000,CBIS,0,173016,173016
+85,Randomized,20000,Randomized Quicksort,0,160056,160056
+86,Sorted,20000,CBIS,0,173016,173016
+87,Sorted,20000,Randomized Quicksort,0,160056,160056
+88,Reversed,20000,CBIS,0,173016,173016
+89,Reversed,20000,Randomized Quicksort,0,160056,160056

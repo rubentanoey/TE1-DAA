@@ -1,0 +1,91 @@
+,Dataset Type,Dataset Size,Algorithm,Duration (ms)
+0,Randomized,200,CBIS,1.00146484375
+1,Randomized,200,Randomized Quicksort,0.0
+2,Sorted,200,CBIS,0.999267578125
+3,Sorted,200,Randomized Quicksort,0.0
+4,Reversed,200,CBIS,2.01220703125
+5,Reversed,200,Randomized Quicksort,0.9951171875
+6,Randomized,2000,CBIS,78.9921875
+7,Randomized,2000,Randomized Quicksort,6.001708984375
+8,Sorted,2000,CBIS,4.99951171875
+9,Sorted,2000,Randomized Quicksort,5.00146484375
+10,Reversed,2000,CBIS,155.51513671875
+11,Reversed,2000,Randomized Quicksort,5.99658203125
+12,Randomized,20000,CBIS,8964.923583984375
+13,Randomized,20000,Randomized Quicksort,68.0029296875
+14,Sorted,20000,CBIS,80.99658203125
+15,Sorted,20000,Randomized Quicksort,64.998046875
+16,Reversed,20000,CBIS,14983.09716796875
+17,Reversed,20000,Randomized Quicksort,63.99560546875
+18,Randomized,200,CBIS,0.0
+19,Randomized,200,Randomized Quicksort,0.996826171875
+20,Sorted,200,CBIS,0.0
+21,Sorted,200,Randomized Quicksort,0.0
+22,Reversed,200,CBIS,0.998779296875
+23,Reversed,200,Randomized Quicksort,0.9990234375
+24,Randomized,2000,CBIS,81.042724609375
+25,Randomized,2000,Randomized Quicksort,7.000244140625
+26,Sorted,2000,CBIS,6.99853515625
+27,Sorted,2000,Randomized Quicksort,6.0087890625
+28,Reversed,2000,CBIS,163.986328125
+29,Reversed,2000,Randomized Quicksort,5.002685546875
+30,Randomized,20000,CBIS,8704.65478515625
+31,Randomized,20000,Randomized Quicksort,113.990478515625
+32,Sorted,20000,CBIS,95.99853515625
+33,Sorted,20000,Randomized Quicksort,57.000244140625
+34,Reversed,20000,CBIS,14311.018310546875
+35,Reversed,20000,Randomized Quicksort,59.999755859375
+36,Randomized,200,CBIS,1.000244140625
+37,Randomized,200,Randomized Quicksort,0.0
+38,Sorted,200,CBIS,0.0
+39,Sorted,200,Randomized Quicksort,0.998779296875
+40,Reversed,200,CBIS,1.00048828125
+41,Reversed,200,Randomized Quicksort,0.0
+42,Randomized,2000,CBIS,79.984619140625
+43,Randomized,2000,Randomized Quicksort,6.00048828125
+44,Sorted,2000,CBIS,7.995849609375
+45,Sorted,2000,Randomized Quicksort,4.99951171875
+46,Reversed,2000,CBIS,137.000244140625
+47,Reversed,2000,Randomized Quicksort,7.0234375
+48,Randomized,20000,CBIS,7781.70361328125
+49,Randomized,20000,Randomized Quicksort,68.98095703125
+50,Sorted,20000,CBIS,118.002197265625
+51,Sorted,20000,Randomized Quicksort,86.998046875
+52,Reversed,20000,CBIS,19724.7412109375
+53,Reversed,20000,Randomized Quicksort,123.99365234375
+54,Randomized,200,CBIS,0.998291015625
+55,Randomized,200,Randomized Quicksort,0.998046875
+56,Sorted,200,CBIS,0.0
+57,Sorted,200,Randomized Quicksort,1.003173828125
+58,Reversed,200,CBIS,0.995361328125
+59,Reversed,200,Randomized Quicksort,0.99853515625
+60,Randomized,2000,CBIS,120.015869140625
+61,Randomized,2000,Randomized Quicksort,10.98193359375
+62,Sorted,2000,CBIS,12.999267578125
+63,Sorted,2000,Randomized Quicksort,6.999267578125
+64,Reversed,2000,CBIS,219.000244140625
+65,Reversed,2000,Randomized Quicksort,8.999755859375
+66,Randomized,20000,CBIS,9633.417724609375
+67,Randomized,20000,Randomized Quicksort,97.976806640625
+68,Sorted,20000,CBIS,95.020263671875
+69,Sorted,20000,Randomized Quicksort,65.976806640625
+70,Reversed,20000,CBIS,18476.98193359375
+71,Reversed,20000,Randomized Quicksort,61.001953125
+72,Randomized,200,CBIS,1.00048828125
+73,Randomized,200,Randomized Quicksort,0.999267578125
+74,Sorted,200,CBIS,0.0
+75,Sorted,200,Randomized Quicksort,0.0
+76,Reversed,200,CBIS,2.00048828125
+77,Reversed,200,Randomized Quicksort,0.0
+78,Randomized,2000,CBIS,89.998779296875
+79,Randomized,2000,Randomized Quicksort,6.999267578125
+80,Sorted,2000,CBIS,8.00048828125
+81,Sorted,2000,Randomized Quicksort,4.998779296875
+82,Reversed,2000,CBIS,134.00244140625
+83,Reversed,2000,Randomized Quicksort,6.9833984375
+84,Randomized,20000,CBIS,9427.015380859375
+85,Randomized,20000,Randomized Quicksort,94.0048828125
+86,Sorted,20000,CBIS,104.979736328125
+87,Sorted,20000,Randomized Quicksort,88.00390625
+88,Reversed,20000,CBIS,18283.324951171875
+89,Reversed,20000,Randomized Quicksort,81.97705078125
